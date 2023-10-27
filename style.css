@@ -1,0 +1,55 @@
+:root{
+--cinza: #aaaa;
+--vermelha: #e93d50;
+--vermelha-escura: #af303f;
+--branca: #fff;
+--luz:  rgb(229,255,0)
+
+}
+
+body {
+   display: flex;
+   align-items: center;
+   background: linear-gradient(45deg, #a7cfdf 0%, #23538a 100%);
+
+
+   justify-content: center;
+
+   flex-direction: column;
+   
+   font-family: 'Montserrat' , sans-serif;
+
+   min-height: 100vh;
+
+}
+
+h1 { 
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+ 
+.teclado {  
+   background: linear-gradient(to botton, #eeeeee 0%, #cccccc 100%);
+
+   box-shadow: 6px 8px 0 6px  #666, 10px 10px #000;
+
+   border-radius: 30px;
+
+   display:}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
